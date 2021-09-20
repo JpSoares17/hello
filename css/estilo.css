@@ -1,0 +1,269 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #4f0000;
+    font-family: sans-serif;
+}
+
+.homebar{
+    display: flex;
+    width: 100%;
+    background-color: #0582ca;
+}
+
+.botao{
+    margin-left: 0;
+    flex-direction: column;
+    justify-content: stretch;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    padding: 0.5rem 2rem;
+    margin: 0.25rem auto;
+    text-decoration: none;
+}
+
+.botao:hover{
+    background-color: #323031;
+}
+
+.texto{
+    color: white;
+    text-align: center;
+}
+
+p{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 2rem;
+    text-align: center;
+    font-size: 25px;
+    background-color: black;
+    border-radius: 10px;
+    padding: 1rem;
+}
+
+img{
+    margin-top: 2rem;
+    border-radius: 10px;
+}
+
+#fimimg{
+    margin-bottom: 1rem;
+}
+
+ul{
+    color: white;
+    font-size: 20px;
+}
+
+#micro1{
+    width: 25%;
+    margin-top: 2rem;
+    margin-right: 25rem;
+    margin-left: 2rem;
+}
+
+#micro2{
+    width: 40%;
+}
+
+li{
+    margin-top: 3rem;
+}
+
+#satelite1{
+    width: 40%;
+    margin-top: 3rem;
+    margin-right: 15rem;
+}
+
+#satelite2{
+    width: 40%;
+}
+
+#nave1{
+    width: 50%;
+    margin-right: 6rem;
+}
+
+#trem1{
+    width: 40%;
+    margin-right: 8rem;
+}
+
+#trem2{
+    width: 50%;
+}
+
+#disquete1{
+    width: 40%;
+    margin-right: 8rem;
+}
+
+#disquete2{
+    width: 46%;
+}
+
+#processamento1{
+    width: 25%;
+    margin-right: 35rem;
+}
+
+#processamento2{
+    width: 38%;
+}
+
+#game1{
+    width: 30%;
+    margin-right: 35rem;
+}
+
+#game2{
+    width: 30%;
+}
+
+#celular1{
+    width: 30%;
+    margin-right: 35rem;
+}
+
+#celular2{
+    width: 30%;
+}
+
+#tv1{
+    width: 40%;
+    margin-right: 20rem;
+}
+
+#tv2{
+    width: 35%;
+}
+
+#walk1{
+    width: 40%;
+    margin-right: 20rem;
+}
+
+#walk2{
+    width: 35%;
+}
+
+#camera1{
+    width: 30%;
+    margin-right: 35rem;
+}
+
+#camera2{
+    width: 25%;
+}
+
+#mouse1{
+    width: 40%;
+    margin-right: 25rem;
+}
+
+#mouse2{
+    width: 20%;
+}
+
+#windows1{
+    width: 50%;
+    margin-right: 13rem;
+}
+
+#windows2{
+    width: 35%;
+}
+
+#internet1{
+    width: 30%;
+    margin-right: 25rem;
+}
+
+#internet2{
+    width: 45%;
+}
+
+.cabecalho{
+    font-size: 50px;
+}
+
+#container-imagem{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: url(/cartaz_eletronico/imagens/WhatsApp\ Image\ 2021-09-16\ at\ 12.52.55.jpeg);
+    background-size: cover;
+}
+
+#corrida{
+    width: 30%;
+}
+
+#bene{
+    width: 30%;
+}
+
+#crack{
+    width: 30%;
+}
+
+#cripto1{
+    width: 30%;
+}
+
+#teoria{
+    width: 30%;
+}
+
+#des{
+    width: 20%;
+}
+
+#key{
+    width: 30%;
+}
+
+#elgama{
+    width: 40%;
+}
+
+#digital{
+    width: 40%;
+}
+
+#ellem{
+    width: 12%;
+}
+
+#nomeacao1{
+    text-align: left;
+    background-color: #4f0000;
+}
+
+#nomeacao2{
+    text-align: left;
+    background-color: #4f0000;
+    margin-top: 5rem;
+}
+
+#jp{
+    width: 14%;
+}
+
+#viderson{
+    width: 40%;
+}
+
+#compnet{
+    width: 30%;
+}
+
+#sahporra{
+    background-color: blanchedalmond;
+}
