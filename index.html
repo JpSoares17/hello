@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/estilo.css">
+    <script defer src="js/comportamento.js"></script>
+    <title>Lista de Compras</title>
+</head>
+<body>
+    <div id="container">
+        <h1>Lista de compras:</h1>
+
+        <div id="subtitulo">
+            <h2>Quantidade de itens na lista:</h2>
+            <h2 id="itens_lista"></h2>
+            <h2>Quantidade itens comprados:</h2>
+            <h2 id="itens_comprados"></h2>
+        </div>
+
+        <span id="estrutura">
+            <p>Digite um novo item: </p>
+            <input id="item" type="text" placeholder="Item desejado">
+            <input id="quantidade" type="text" placeholder="Quantidade desejada">
+            <button id="btn_adicionar">Adicionar...</button>
+        </span>
+
+        <ol id="itens"></ol>
+    </div>
+</body>
+</html>
